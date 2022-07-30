@@ -66,6 +66,7 @@
 >![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 >![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white)
 >![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)
+>![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=Insomnia&logoColor=white)
 > #### Hosting and deployment
 >![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel)
 >![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
